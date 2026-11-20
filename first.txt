@@ -1,3 +1,4 @@
 Кангелдиев Эрлан Сулайманович
 cogito ergo sum
 hello, world!
+$waga
